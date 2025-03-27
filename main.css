@@ -38,7 +38,7 @@ body {
 .card .text p.special {
   max-width: 250px;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 21px;
   margin: 0 auto;
   margin-top: 15px;
   color: var(--slate-900);
